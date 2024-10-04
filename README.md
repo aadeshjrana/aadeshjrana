@@ -4,13 +4,33 @@
 
 
 ```javascript
-const aboutMe = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C, C++, PHP, Rust, Golang, SQL],
-  tools: [React, Redux, Node, Styled-Components, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and tailwind"
-}
+const aadesh = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "HTML", "CSS", "Ruby", "Python", "Java", "C", "C++", "PHP", "Rust", "Golang", "SQL"],
+    fields: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        
+        devOps: ["Docker🐳", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate"],
+        },
+        databases: ["MongoDB", "SQLite", "Firebase Realtime DB", "redis", "MS Access],
+        misc: ["REST APIs", "WebSockets"],
+        generativeAI: ["GPT", "Claude"],
+    },
+    
+    currentFocus: "Learning React and Tailwind",
+    funFact: "I can code faster with a monster in hand!"
+};
 ```
 
 <b>I also love meeting new people, playing guitar and working out </b>
