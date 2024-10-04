@@ -3,10 +3,8 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
-
 ```javascript
-const nepali = {
+const aboutMe = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C, C++, PHP, Rust, Golang, SQL],
   tools: [React, Redux, Node, Styled-Components, Docker],
@@ -15,6 +13,6 @@ const nepali = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I also love meeting new people, playing guitar and working out </b>
+<b>I also love meeting new people, playing guitar and working out </b>
 
 ---
