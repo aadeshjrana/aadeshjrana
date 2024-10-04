@@ -15,6 +15,6 @@ const nepali = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I also love playing guitar and working out </b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I also love meeting new people, playing guitar and working out </b>
 
 ---
