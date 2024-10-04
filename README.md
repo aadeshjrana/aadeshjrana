@@ -23,7 +23,7 @@ const aadesh = {
         cloudServices: {
             aws: ["AWS Fargate"],
         },
-        databases: ["MongoDB", "SQLite", "Firebase Realtime DB", "redis", "MS Access],
+        databases: ["MongoDB", "SQLite", "Firebase Realtime DB", "redis", "MS Access"],
         misc: ["REST APIs", "WebSockets"],
         generativeAI: ["GPT", "Claude"],
     },
